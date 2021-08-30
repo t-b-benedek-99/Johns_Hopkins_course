@@ -1,0 +1,19 @@
+.navbar-default {
+    background-color: lightblue;
+}
+div ul li {
+    background-color: blueviolet;
+    color: white;
+}
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+.navbar-brand {
+    font-size: 1.6em;
+    font-weight: bold;
+}
+
+.container .row .col-xs-12 {
+    width: 100%;
+    background-color: burlywood;
+}
